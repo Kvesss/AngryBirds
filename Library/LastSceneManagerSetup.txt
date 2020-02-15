@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Git/Project1/Assets/Scenes/Level1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
